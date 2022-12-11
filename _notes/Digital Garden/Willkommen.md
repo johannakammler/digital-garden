@@ -1,1 +1,0 @@
-Herzlich willkommen in meinem Digitalen Garten
