@@ -2,13 +2,8 @@
 title: Nikolaikirche
 ---
  
- Krönchen: Im Jahre 1658 von [[Johann Moritz von Nassau-Siegen]] der Stadt geschenkt
 
-
-	- oben im Dachstuhl lebte der Wachmann mit seiner Frau und sieben Kindern in drei Räumen
-	- Im Krieg ist der Turm stehen gebliben, das Kirchenschiff wurde zerstört
-
-# Gesicherte Informationen
+## Gesicherte Informationen
 
 - benannt nach dem heiligen Nikolaus von Myra, dem Schutzpatron der Kaufleute. Das passt sehr gut zu dem Standort am Marktplatz.
 	- Die Kombination von Nikolaikirche und Markt war wohl im Mittelalter nichts ungewöhnliches. [^1]
@@ -22,26 +17,27 @@ title: Nikolaikirche
 	- Wahrzeichen der Stadt
 	- Original ist aus vergoldetem Eisen, in den 1990ern sie wurde aber gegen eine Replik aus vergoldetem Edelstahl getauscht [^9] (Achtung, Quellenangabe zu den Materialien fehlt noch)
 - Das Kirchenschiff wurde im Luftangriff vom 16. Dezember 1944 zerstört, der Turm blieb stehen[^11]
-# Interpretationen
+## Interpretationen
 
 - "Der Windpfeil [über dem Krönchen] mißt 3,18 m und symboli siert, daß auch Fürstenkronen der Macht dessen unterstellt sind, der Wolken Luft und Winden Wege, Lauf und Bahn gibt"[^5]
 
-# Informationen mit fehlenden Quellenangaben
+## Informationen mit fehlenden Quellenangaben
 
 - Original des Krönchens aus vergoldetem Stahl, Nachbau aus Edelstahl
 - Johann Moritz ließ auch die Turmspitze ausbauen, die Kirche wurde fortan bis ca. 1855 auch als Wachtturm verwendet. Der letzte Wärter lebte mit Frau und sieben Kindern oben in den drei Zimmern. (Natürlich ohne Strom und Wasser).
 
-# Unbestätigte Informationen
+## Unbestätigte Informationen
 
 - es wurden Eisenplatten oben am Turm angebracht, um eventuell auch Kanonen dort anbringen und aufs obere Schloss und den katholischen Familienzweig richten zu können.
 
 
-# Quellen
-zusammengestellt vom Stadtarchiv Siegen in der großartigen Siegener Bibliographie, S. 164ff.
+## Quellen
 
+zusammengestellt vom Stadtarchiv Siegen in der großartigen Siegener Bibliographie, S. 164ff.
 - https://www.siegen.de/fileadmin/cms/pdf/Stadtarchiv/SiegenerBibliographie.pdf
 
-# Nachweise
+## Nachweise
+
 [^1]: https://de.wikipedia.org/wiki/Liste_von_Nikolaikirchen
 [^2]: Eberhardt, Herman: Die Nikolaikirche zu Siegen. Ihre Geschichte und was es an ihr und in ihr zu sehen gibt. Hrsg. vom Presbyterium der Evangelischen Nikolai-Kirchengemeinde Siegen, Siegen 1996, S. 1.
 [^3]: Mainzer, Udo: Die Nikolaikirche in Siegen, in: Diener, Andreas et al. (Hrsg.): Entwerfen und Verwerfen: Planwechsel in Kunst und Architektur des Mittelalters und der Frühen Neuzeit. Festschrift für Matthias Untermann zum 65. Geburtstag, Heidelberg: arthistoricum.net, 2022, S. 537.
