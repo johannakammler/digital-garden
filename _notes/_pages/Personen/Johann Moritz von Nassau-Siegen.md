@@ -10,7 +10,7 @@ permalink: /johann-moritz
 - 1604 - 1679
 
 ### Verbindungen zu Orten in Siegen
-- stiftete das Krönchen auf der Nikolaikirche[^1]
+- stiftete das Krönchen auf der [[Nikolaikirche]][^1]
 
 ### Politisches Testament
 -  "Am 6.5.1644 legte Johann Moritz nach 7 Regierungsjahren [in Brasilien] sein Amt nieder und übergab den Räten ein politisches Testament, das die hohe Weisheit, Mäßigung und Rechtlichkeit J.s bezeugte."[^2] 
